@@ -110,7 +110,7 @@ A full-stack inventory platform for managing products, categories, stock levels,
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashAthawale07&theme=github_dark" height="180"/>
 </p>
 
-![snake gif](https://github.com/YashAthawale07/YashAthawale07/blob/output/github-snake-dark.svg)
+
 
 ---
 
