@@ -9,7 +9,7 @@ My work focuses on secure REST APIs, document intelligence, semantic search, and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YashAthawale](https://www.linkedin.com/in/yash-athawale-64532b260/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yash-athawale-64532b260/](https://www.linkedin.com/in/yash-athawale-64532b260/))
 [![Email](https://img.shields.io/badge/Email-athawaleyashdadarao%40gmail.com-gray?style=flat&logo=gmail&logoColor=white)](mailto:athawaleyashdadarao@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-YashAthawale07-181717?style=flat&logo=github&logoColor=white)](https://github.com/YashAthawale07)
 
