@@ -124,13 +124,13 @@ A full-stack inventory platform for managing products, categories, stock levels,
 
 ---
 
-## What I'm Learning Right Now
+ ## What I'm Learning Right Now
 
-- Building production-ready Generative AI applications with Spring AI
-- Improving RAG pipelines, embeddings, and semantic retrieval
-- Machine Learning and NLP fundamentals
-- Backend scalability, API security, and system design
-- Writing clean, maintainable full-stack software
+-  Developing AI-powered applications using Spring AI and Large Language Models (LLMs).
+-  Designing and improving RAG pipelines, embeddings, vector search, and semantic retrieval.
+-  Strengthening fundamentals of Machine Learning and Natural Language Processing (NLP).
+-  Deepening my understanding of Spring Boot, backend architecture, API security, and system design.
+-  Building maintainable, scalable applications by applying software engineering best practices.
 
 ---
 
