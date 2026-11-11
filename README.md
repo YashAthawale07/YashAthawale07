@@ -4,7 +4,8 @@
 
 <p>
 I build practical full-stack applications and AI-powered systems using Java, Spring Boot, React, and modern data technologies.<br>
-My work focuses on secure REST APIs, document intelligence, semantic search, and reliable user-facing products.
+My work focuses on building secure backend systems, scalable APIs, and AI-powered applications with capabilities such as document intelligence, semantic search, and intelligent information retrieval.
+  
 </p>
 
 <div align="center">
@@ -19,16 +20,25 @@ My work focuses on secure REST APIs, document intelligence, semantic search, and
 
 ## About Me
 
-I'm a Computer Engineering graduate and Java full-stack developer interested in building software that solves real problems.
+I'm a Computer Engineering graduate and Java Full-Stack Developer passionate about building practical software solutions and exploring the intersection of software engineering and AI.
 
-I enjoy working across the application stack — from responsive interfaces and REST APIs to authentication, databases, embeddings, and AI-generated responses.
+My experience spans backend development with Java and Spring Boot, frontend development with React, and database management. I'm currently expanding my expertise in **Generative AI and AI Engineering** , focusing on building AI-powered applications using Spring AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, semantic search, and vector databases.
 
-My current focus is on **Generative AI and AI-driven application development**, especially Retrieval-Augmented Generation, semantic search, NLP fundamentals, and integrating LLMs into useful products.
+I enjoy learning new technologies, solving engineering problems, and turning ideas into working applications.
 
-- 🎓 BE in Computer Engineering from SSBT's College of Engineering and Technology
-- 💼 Software Developer Intern experience at MSquare Software Systems
-- 🧠 Interested in Machine Learning, NLP, and Generative AI
-- 📍 Based in Jalna, Maharashtra
+- 🎓 BE in Computer Engineering from SSBT's College of Engineering and Technology.
+- 💼 Software Developer Intern at MSquare Software Systems Pvt. Ltd.
+- ☕ Interested in Java, Spring Boot, REST APIs, and Full-Stack Development.
+- 🤖 Exploring Generative AI, Spring AI, LLM integration, RAG, and semantic search.
+- 🛠️ Building projects that combine backend engineering with AI capabilities.
+- 🚀 Aspiring Software Engineer with a growing interest in AI Engineering.
+
+
+
+
+
+
+
 
 ---
 
